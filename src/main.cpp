@@ -4,7 +4,7 @@
 
 //----- Buttons -----
 //Button button1(3, 5, 260, 500);
-Button button1(4, 5, 180, 500);////pin, debounce time, double click window, long press //4, 5, 150, 500
+Button button1(3, 5, 180, 500);////pin, debounce time, double click window, long press //4, 5, 150, 500
 
 void setup() {
   Serial.begin(115200);
